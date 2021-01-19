@@ -1,0 +1,28 @@
+Bratislava location data
+
+lat	                lon	              District            Part of city
+17.0993727869585	48.1510049800878	Staré Mesto	          Bratislava I
+17.2084247134626	48.1284075869231	Podunajské Biskupice	Bratislava II
+17.1440109395433	48.1413579721277	Ružinov	              Bratislava II
+17.1707445371711	48.1695190075352	Ružinov	              Bratislava II
+17.167615536068	  48.1501731346217	Ružinov	              Bratislava II
+17.2125822012466	48.1521342786713	Vrakuňa	              Bratislava II
+17.0974172457469	48.1936897421727	Nové Mesto	          Bratislava III
+17.1286247299164	48.1670268732205	Nové Mesto	          Bratislava III
+17.1550777015367	48.203150753821	  Rača	                Bratislava III
+17.206336458591	  48.203977677284	  Vajnory	              Bratislava III
+16.9750127537651	48.2097203940151	Devínska Nová Ves	    Bratislava IV
+17.0388550052243	48.1869972389056	Dúbravka	            Bratislava IV
+17.0543153882729	48.1557940986496	Karlova Ves           Bratislava IV
+16.9836467411475	48.174643907006	  Devín	                Bratislava IV
+17.0478880078697	48.1990150151398	Lamač	                Bratislava IV
+17.03685247785	   48.2367155121466	Záhorská Bystrica	    Bratislava IV
+17.1984648965809	48.0294576889476	Čunovo	              Bratislava V
+17.1135088203669	48.0651251406032	Jarovce	              Bratislava V
+17.1010657753358	48.1181069400917	Petržalka	            Bratislava V
+17.1453716772194	48.0542210613188	Rusovce	              Bratislava V
+
+for purpose of analysis i have those data in my local 
+
+Prague location data
+
